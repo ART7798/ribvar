@@ -33,7 +33,6 @@
   --rbvdarkmain: #0e1b30;
 }
 
-
 body,
 * {
   font-family: "Dana";
@@ -42,7 +41,8 @@ html {
   background-color: var(--rbvbgmain) !important;
 }
 
-.home-body,.articles-body {
+.home-body,
+.articles-body {
   position: relative;
   height: 100%;
 }
@@ -60,20 +60,17 @@ html {
 
 .intro {
   height: 70vh;
-  background: var(--rbvbgmain)
-    url("../images/backgrounds/ff503bc01401a2d9866bbb34e1a9f290.jpg") center;
+  background: var(--rbvbgmain) url("../images/backgrounds/landscape.jpg") center;
   background-size: cover;
 }
 .intro2 {
   height: 70vh;
-  background: var(--rbvbgmain)
-    url("../images/backgrounds/ff503bc01401a2d9866bbb34e1a9f290.jpg") center;
+  background: var(--rbvbgmain) url("../images/backgrounds/landscape.jpg") center;
   background-size: cover;
 }
 .intro3 {
   height: 70vh;
-  background: var(--rbvbgmain)
-    url("../images/backgrounds/ff503bc01401a2d9866bbb34e1a9f290.jpg") center;
+  background: var(--rbvbgmain) url("../images/backgrounds/landscape.jpg") center;
   background-size: cover;
 }
 
