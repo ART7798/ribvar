@@ -974,10 +974,6 @@ video {
   margin-top: 1.5rem;
 }
 
-.mt-\[102px\] {
-  margin-top: 102px;
-}
-
 .mt-\[14px\] {
   margin-top: 14px;
 }
@@ -3842,6 +3838,10 @@ input[type="radio"]:checked::after {
     justify-content: space-between!important;
   }
 } */
+
+.home-body .header {
+  position: absolute !important;
+}
 
 @media (min-width: 640px) {
   .sm\:container {
