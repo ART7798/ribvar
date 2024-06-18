@@ -8,7 +8,7 @@
     font-family: "DanaRegular";
     font-style: normal;
     font-weight: normal;
-    src: url("../fonts/Dana-Regular.woff") format("woff");
+    src: url("../_fonts/Dana-Regular.woff") format("woff");
   }
 
   @font-face {
@@ -16,7 +16,7 @@
     font-family: "Dana";
     font-style: normal;
     font-weight: normal;
-    src: url("../fonts/DanaFaNum-Medium.woff") format("woff");
+    src: url("../_fonts/DanaFaNum-Medium.woff") format("woff");
   }
 }
 
