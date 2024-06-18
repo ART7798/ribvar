@@ -33,12 +33,18 @@
   --rbvdarkmain: #0e1b30;
 }
 
+
 body,
 * {
   font-family: "Dana";
 }
 html {
   background-color: var(--rbvbgmain) !important;
+}
+
+.home-body,.articles-body {
+  position: relative;
+  height: 100%;
 }
 
 .custom-container {
